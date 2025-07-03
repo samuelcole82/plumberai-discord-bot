@@ -1,0 +1,14 @@
+{
+  "name": "plumberai-bot",
+  "version": "1.0.0",
+  "description": "Discord bot powered by ChatGPT for plumbing help",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.28.1"
+  }
+}
